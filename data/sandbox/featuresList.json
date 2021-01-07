@@ -1,0 +1,764 @@
+[
+  {
+    "id": "ads-perured/default",
+    "label": "Publicidad PeruRed"
+  },
+  {
+    "id": "ads/default",
+    "label": "Publicidad AppNexus"
+  },
+  {
+    "id": "basic-html/amp"
+  },
+  {
+    "id": "basic-html/default",
+    "label": "HTML Básico"
+  },
+  {
+    "id": "breaking-news/default",
+    "label": "Cintillo Urgente"
+  },
+  {
+    "id": "custom-image/default",
+    "label": "Imagen con enlace"
+  },
+  {
+    "id": "custom-title/default",
+    "label": "Título Personalizable"
+  },
+  {
+    "id": "lifweek/default",
+    "label": "Lifweek Diseñadores"
+  },
+  {
+    "id": "minute-by-minute/default",
+    "label": "Minuto a minuto"
+  },
+  {
+    "id": "ordered-stories-grid/default",
+    "label": "Grilla de Historias Ordenadas"
+  },
+  {
+    "id": "photogallery/default",
+    "label": "Fotogalería"
+  },
+  {
+    "id": "tv-highlight/default",
+    "label": "Destaque TV"
+  },
+  {
+    "id": "ads/perured",
+    "label": "Publicidad PeruRed - Beta"
+  },
+  {
+    "id": "ads/principal",
+    "label": "Publicidad - Beta"
+  },
+  {
+    "id": "async/section-columns-static",
+    "label": "Noticias por sección - async"
+  },
+  {
+    "id": "async/section-columns",
+    "label": "Grid de noticias por sección - async"
+  },
+  {
+    "id": "authors/authors-list",
+    "label": "Lista de Autores"
+  },
+  {
+    "id": "authors/editorial-team",
+    "label": "Equipo editorial"
+  },
+  {
+    "id": "blog/author-details",
+    "label": "Blog - Detalles del autor"
+  },
+  {
+    "id": "blog/author-list",
+    "label": "Blog - Posts por autor"
+  },
+  {
+    "id": "blog/author-title",
+    "label": "Blog - Título del autor"
+  },
+  {
+    "id": "blog/blog-list-author",
+    "label": "Listado de post de blog con autores"
+  },
+  {
+    "id": "blog/blog-list",
+    "label": "Blog - Listado blogs"
+  },
+  {
+    "id": "blog/post-content",
+    "label": "Blog - Contenido del post"
+  },
+  {
+    "id": "blog/post-header",
+    "label": "Blog - Cabecera del post"
+  },
+  {
+    "id": "blog/post-list-grid",
+    "label": "Blog - Listado en grilla"
+  },
+  {
+    "id": "blog/related-posts-grid",
+    "label": "Blog - Te puede interesar"
+  },
+  {
+    "id": "cards/author-description",
+    "label": "Autor - Descripción"
+  },
+  {
+    "id": "cards/cinema-billboard",
+    "label": "Mini-Cartelera"
+  },
+  {
+    "id": "cards/doblete",
+    "label": "Doblete"
+  },
+  {
+    "id": "cards/featured-story-advanced",
+    "label": "Destaque Avanzado"
+  },
+  {
+    "id": "cards/featured-story-author",
+    "label": "Destaque de autor"
+  },
+  {
+    "id": "cards/featured-story-auto",
+    "label": "Destaque por Sección"
+  },
+  {
+    "id": "cards/featured-story-columnist",
+    "label": "Columnista Premium"
+  },
+  {
+    "id": "cards/featured-story-full-img",
+    "label": "Destaque Full Imagen"
+  },
+  {
+    "id": "cards/featured-story-list",
+    "label": "Listado de destaques"
+  },
+  {
+    "id": "cards/featured-story-manual-live",
+    "label": "Destaque por URL / En Vivo"
+  },
+  {
+    "id": "cards/featured-story-manual",
+    "label": "Destaque por URL"
+  },
+  {
+    "id": "cards/featured-story-multimedia",
+    "label": "Destaque multimedia"
+  },
+  {
+    "id": "cards/featured-story-opening",
+    "label": "Destaque Apertura"
+  },
+  {
+    "id": "cards/featured-story-premium",
+    "label": "Destaque Premium"
+  },
+  {
+    "id": "cards/featured-story-special",
+    "label": "Destaque especial"
+  },
+  {
+    "id": "cards/live-score-minute-to-minute",
+    "label": "Score en vivo minuto a minuto"
+  },
+  {
+    "id": "cards/most-read",
+    "label": "Últimas Noticias"
+  },
+  {
+    "id": "cards/opinion",
+    "label": "Listado de Opinión + ícono"
+  },
+  {
+    "id": "cards/tabloid-story",
+    "label": "Tabloide - Artículo"
+  },
+  {
+    "id": "cards/tabloid",
+    "label": "Tabloide"
+  },
+  {
+    "id": "cards/tournament-result",
+    "label": "Resultado de torneo"
+  },
+  {
+    "id": "cards/triplet",
+    "label": "Triplete"
+  },
+  {
+    "id": "extraordinary-story/by-section",
+    "label": "Apertura extraordinaria por sección"
+  },
+  {
+    "id": "extraordinary-story/by-url",
+    "label": "Apertura extraordinaria por historia"
+  },
+  {
+    "id": "extraordinary-story/grid",
+    "label": "Apertura extraordinaria con grilla"
+  },
+  {
+    "id": "extraordinary-story/live-score",
+    "label": "Apertura extraordinaria - En vivo"
+  },
+  {
+    "id": "footer/depor",
+    "label": "Pié de página - Depor"
+  },
+  {
+    "id": "footer/elcomercio",
+    "label": "Pié de página - El Comercio"
+  },
+  {
+    "id": "footer/standard-g21",
+    "label": "Pie de Página - G21"
+  },
+  {
+    "id": "footer/story",
+    "label": "Pié de página - Noticia"
+  },
+  {
+    "id": "header/continuous",
+    "label": "Cabecera Continua"
+  },
+  {
+    "id": "header/header-amp",
+    "label": "Cabecera de Página AMP - Sin Menú"
+  },
+  {
+    "id": "header/header-full",
+    "label": "Cabecera Full"
+  },
+  {
+    "id": "header/inverted"
+  },
+  {
+    "id": "header/links-band",
+    "label": "Cabecera - Temas del día"
+  },
+  {
+    "id": "header/match-nav",
+    "label": "Partido Navegación"
+  },
+  {
+    "id": "header/recipe",
+    "label": "Cabecera - Recetas"
+  },
+  {
+    "id": "header/section-title",
+    "label": "Cabecera - Título independiente"
+  },
+  {
+    "id": "header/section",
+    "label": "Cabecera - Sección"
+  },
+  {
+    "id": "header/somos"
+  },
+  {
+    "id": "header/special",
+    "label": "Cabecera - Noticia Especial"
+  },
+  {
+    "id": "header/standard",
+    "label": "Cabecera - Estándar"
+  },
+  {
+    "id": "layout/amp-navbar",
+    "label": "Barra de Navegación AMP"
+  },
+  {
+    "id": "layout/footer",
+    "label": "Pie de Página"
+  },
+  {
+    "id": "layout/header",
+    "label": "Cabecera de Página"
+  },
+  {
+    "id": "layout/navbar-no-signwall",
+    "label": "Barra de Navegación Sin Signwall"
+  },
+  {
+    "id": "layout/navbar-nomenu-nosignwall",
+    "label": "Barra de Navegacion sin menu y signwall"
+  },
+  {
+    "id": "layout/navbar-nomenu",
+    "label": "Barra de Navegacion sin menu"
+  },
+  {
+    "id": "layout/navbar",
+    "label": "Barra de Navegación"
+  },
+  {
+    "id": "navbar/somos",
+    "label": "Barra de Navegación - Somos"
+  },
+  {
+    "id": "navbar/standard-basic",
+    "label": "Barra de Navegación - básico"
+  },
+  {
+    "id": "navbar/standard-ext-signwall",
+    "label": "Barra de Navegación - Signwall externo"
+  },
+  {
+    "id": "navbar/standard",
+    "label": "Barra de Navegación - Estándar"
+  },
+  {
+    "id": "paywall/contact-us"
+  },
+  {
+    "id": "paywall/content"
+  },
+  {
+    "id": "paywall/faqs"
+  },
+  {
+    "id": "paywall/foot"
+  },
+  {
+    "id": "paywall/head"
+  },
+  {
+    "id": "paywall/portal"
+  },
+  {
+    "id": "podcast/extraordinary-story",
+    "label": "Podcast - Apertura Extraordinaria"
+  },
+  {
+    "id": "podcast/list",
+    "label": "Podcast - lista"
+  },
+  {
+    "id": "podcast/separator",
+    "label": "Podcast - Separador"
+  },
+  {
+    "id": "podcast/title",
+    "label": "Podcast - Título"
+  },
+  {
+    "id": "polla/header",
+    "label": "La Polla - Header"
+  },
+  {
+    "id": "polla/list",
+    "label": "La Polla - Listado"
+  },
+  {
+    "id": "polla/load-user",
+    "label": "La Polla - Load User"
+  },
+  {
+    "id": "polla/top",
+    "label": "La Polla - Top Header"
+  },
+  {
+    "id": "separators/basic",
+    "label": "Separador Básico"
+  },
+  {
+    "id": "separators/blog",
+    "label": "Separador de Blog"
+  },
+  {
+    "id": "separators/editorial-blog-manual",
+    "label": "Separador Blog Manual con Editorial"
+  },
+  {
+    "id": "separators/editorial-with-blog",
+    "label": "Separador de Editorial con Blog"
+  },
+  {
+    "id": "separators/featured",
+    "label": "Separador destacado"
+  },
+  {
+    "id": "separators/opinion",
+    "label": "Separador - Opinión"
+  },
+  {
+    "id": "separators/stories",
+    "label": "Separador - noticias"
+  },
+  {
+    "id": "signwall/authwrapper"
+  },
+  {
+    "id": "signwall/confirmation-notice",
+    "label": "Singwall - Cintillo de Confirmación"
+  },
+  {
+    "id": "signwall/header"
+  },
+  {
+    "id": "signwall/main"
+  },
+  {
+    "id": "signwall/mainpage"
+  },
+  {
+    "id": "signwall/menu"
+  },
+  {
+    "id": "signwall/panel"
+  },
+  {
+    "id": "specials/basic-header",
+    "label": "Especial - Cabecera Básica"
+  },
+  {
+    "id": "specials/body-content",
+    "label": "Especial - Contenido Nota"
+  },
+  {
+    "id": "specials/title-with-image",
+    "label": "Especial - Título con imagen de fondo"
+  },
+  {
+    "id": "statics/cinema-billboard",
+    "label": "Cartelera de Cine"
+  },
+  {
+    "id": "statics/concessionary-offices",
+    "label": "Oficinas Concesionarias"
+  },
+  {
+    "id": "statics/error404",
+    "label": "Error 404"
+  },
+  {
+    "id": "statics/info-pages",
+    "label": "Páginas estáticas"
+  },
+  {
+    "id": "statics/newsletter-custom",
+    "label": "Newsletter Custom"
+  },
+  {
+    "id": "statics/newsletter",
+    "label": "Newsletter"
+  },
+  {
+    "id": "statics/newsletters-subscription"
+  },
+  {
+    "id": "statics/opinion-grid",
+    "label": "Grilla y listado de Opinión"
+  },
+  {
+    "id": "stories-lists/archive",
+    "label": "Listado de Archivo"
+  },
+  {
+    "id": "stories-lists/card",
+    "label": "Último minuto"
+  },
+  {
+    "id": "stories-lists/correction",
+    "label": "Listado de corrección de notas"
+  },
+  {
+    "id": "stories-lists/infinite-scroll-list",
+    "label": "Listado con scroll infinito"
+  },
+  {
+    "id": "stories-lists/infite-cards",
+    "label": "Listado de noticias con fotogalerías"
+  },
+  {
+    "id": "stories-lists/linked-by-site",
+    "label": "Recomendados por marca"
+  },
+  {
+    "id": "stories-lists/most-read-homologated",
+    "label": "Más Leídas"
+  },
+  {
+    "id": "stories-lists/most-read-premiun",
+    "label": "Más Leidas Premium"
+  },
+  {
+    "id": "stories-lists/most-read-views",
+    "label": "Mas Vistas con Publicidad"
+  },
+  {
+    "id": "stories-lists/paginated-list",
+    "label": "Listado con paginación"
+  },
+  {
+    "id": "stories-lists/recommender-by-site",
+    "label": "Recomendados Por Marca"
+  },
+  {
+    "id": "stories-lists/section-column",
+    "label": "Noticias por sección"
+  },
+  {
+    "id": "stories-lists/section-stories",
+    "label": "Listado de Sección"
+  },
+  {
+    "id": "stories-lists/stories-author",
+    "label": "Listado de historias - autores"
+  },
+  {
+    "id": "stories-lists/stories-news",
+    "label": "Listado de Noticia"
+  },
+  {
+    "id": "stories-lists/stories-video",
+    "label": "Listado de Videos"
+  },
+  {
+    "id": "stories-lists/tabloid-list",
+    "label": "Listado Tabloide"
+  },
+  {
+    "id": "story/author-title",
+    "label": "Notas - Título del autor"
+  },
+  {
+    "id": "story/author",
+    "label": "Artículo - Author"
+  },
+  {
+    "id": "story/bbc",
+    "label": "Artículo - BBC"
+  },
+  {
+    "id": "story/comentario",
+    "label": "Artículo - Comentario"
+  },
+  {
+    "id": "story/contents",
+    "label": "Artículo - contenidos"
+  },
+  {
+    "id": "story/continue-scroll",
+    "label": "Artículo - Notas continuas"
+  },
+  {
+    "id": "story/continue"
+  },
+  {
+    "id": "story/gallery",
+    "label": "Artículo - galería"
+  },
+  {
+    "id": "story/google-news",
+    "label": "Artículo - Google News"
+  },
+  {
+    "id": "story/interest-by-tag",
+    "label": "Artículo - Te puede interesar"
+  },
+  {
+    "id": "story/multimedia",
+    "label": "Artículo - multimedia"
+  },
+  {
+    "id": "story/next-story-button"
+  },
+  {
+    "id": "story/opta-commentary",
+    "label": "Comentarios de Opta"
+  },
+  {
+    "id": "story/premium"
+  },
+  {
+    "id": "story/related",
+    "label": "Artículo - Relacionados"
+  },
+  {
+    "id": "story/separator"
+  },
+  {
+    "id": "story/social-header",
+    "label": "Header - redes sociales"
+  },
+  {
+    "id": "story/social",
+    "label": "Artículo - redes sociales"
+  },
+  {
+    "id": "story/special-header",
+    "label": "Artículo - Encabezado Especial"
+  },
+  {
+    "id": "story/special-title",
+    "label": "Artículo - Título Especial"
+  },
+  {
+    "id": "story/stick",
+    "label": "Artículo - Abrir en App"
+  },
+  {
+    "id": "story/structured-recipe",
+    "label": "Datos estructurado - Recetas"
+  },
+  {
+    "id": "story/taboola",
+    "label": "Artículo - Taboola"
+  },
+  {
+    "id": "story/tags",
+    "label": "Artículo - Tags"
+  },
+  {
+    "id": "story/title",
+    "label": "Artículo - Título"
+  },
+  {
+    "id": "subscriptions/fia"
+  },
+  {
+    "id": "subscriptions/landing"
+  },
+  {
+    "id": "subscriptions/payment"
+  },
+  {
+    "id": "tv/featured",
+    "label": "Tv - destaque"
+  },
+  {
+    "id": "tv/header",
+    "label": "Tv - cabecera"
+  },
+  {
+    "id": "tv/section",
+    "label": "Tv - destaque de sección"
+  },
+  {
+    "id": "tv/separator",
+    "label": "Tv - separador"
+  },
+  {
+    "id": "video/list",
+    "label": "Video - Lista"
+  },
+  {
+    "id": "video/section"
+  },
+  {
+    "id": "widgets/archive-calendar",
+    "label": "Calendario Archivo"
+  },
+  {
+    "id": "widgets/basic-html",
+    "label": "HTML Básico - Beta"
+  },
+  {
+    "id": "widgets/breaking-news",
+    "label": "Cintillo Urgente - Beta"
+  },
+  {
+    "id": "widgets/custom-image",
+    "label": "Imagen con enlace - Beta"
+  },
+  {
+    "id": "widgets/custom-title",
+    "label": "Título Personalizable - Beta"
+  },
+  {
+    "id": "widgets/lifweek",
+    "label": "Lifweek Diseñadores - Beta"
+  },
+  {
+    "id": "widgets/ordered-stories-grid",
+    "label": "Grilla de Historias Ordenadas - Beta"
+  },
+  {
+    "id": "widgets/photogallery",
+    "label": "Fotogalería - Beta"
+  },
+  {
+    "id": "widgets/search-filter",
+    "label": "Filtro de búsqueda"
+  },
+  {
+    "id": "widgets/tv-highlight",
+    "label": "Destaque TV - Beta"
+  },
+  {
+    "id": "xml/archive-day-news-sitemap"
+  },
+  {
+    "id": "xml/archive-day-web-sitemap"
+  },
+  {
+    "id": "xml/archive-month-sitemap"
+  },
+  {
+    "id": "xml/archive-sitemap"
+  },
+  {
+    "id": "xml/archive-year-sitemap"
+  },
+  {
+    "id": "xml/content-migration"
+  },
+  {
+    "id": "xml/fb-instant-articles"
+  },
+  {
+    "id": "xml/google-kiosko"
+  },
+  {
+    "id": "xml/google-news"
+  },
+  {
+    "id": "xml/images-sitemap"
+  },
+  {
+    "id": "xml/mag-stories-sitemap-news"
+  },
+  {
+    "id": "xml/mag-stories-sitemap-web"
+  },
+  {
+    "id": "xml/newsletter"
+  },
+  {
+    "id": "xml/options-sitemap"
+  },
+  {
+    "id": "xml/sections-sitemap"
+  },
+  {
+    "id": "xml/site-news-sitemap"
+  },
+  {
+    "id": "xml/sitemap-news"
+  },
+  {
+    "id": "xml/sitemap-peru21tv"
+  },
+  {
+    "id": "xml/sitemap-web"
+  },
+  {
+    "id": "xml/stories-sitemap-news"
+  },
+  {
+    "id": "xml/stories-sitemap-web"
+  },
+  {
+    "id": "xml/videos-sitemap"
+  }
+]

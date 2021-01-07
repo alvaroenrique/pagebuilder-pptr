@@ -1,0 +1,25 @@
+{
+  "name": "pptr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "login": "ts-node src/login.ts",
+    "gen:dev": "ts-node src/generate-data.ts sandbox 2778",
+    "gen:prod": "ts-node src/generate-data.ts production 1775",
+    "features-count": "ts-node src/reports/features-count/generate-report.ts production",
+    "features-usage": "ts-node src/reports/features-usage/generate-report.ts production"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/puppeteer": "^5.4.2",
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.14",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}
