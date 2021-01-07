@@ -3,8 +3,8 @@ import { writeFileSync } from "fs";
 import dotenv from "dotenv";
 
 dotenv.config();
-const user = process.env.DB_USER || "";
-const pass = process.env.DB_PASS || "";
+const user = process.env.USER || "";
+const pass = process.env.PASS || "";
 
 (async () => {
   const browser = await puppeteer.launch({
