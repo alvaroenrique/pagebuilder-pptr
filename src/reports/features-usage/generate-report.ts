@@ -1,15 +1,9 @@
 const featuresList = [
-  "ads-perured/default",
-  "ads/default",
-  "basic-html/default",
-  "breaking-news/default",
-  "custom-image/default",
-  "lifeweek/default",
-  "custom-title/default",
-  "ordered-stories-list/default",
-  "photogallery/default",
-  "tv-highlight/default",
-  "minute-by-minute/default",
+  "widgets/custom-title",
+  "widgets/breaking-news",
+  "widgets/custom-image",
+  "widgets/basic-html",
+  "ads/principal",
 ];
 
 ///////////////////////////////////////////////////////////////////////////////////

@@ -6,7 +6,7 @@
   "scripts": {
     "login": "ts-node src/login.ts",
     "gen:dev": "ts-node src/generate-data.ts sandbox 2778",
-    "gen:prod": "ts-node src/generate-data.ts production 1775",
+    "gen:prod": "ts-node src/generate-data.ts production 1776",
     "features-count": "ts-node src/reports/features-count/generate-report.ts production",
     "features-usage": "ts-node src/reports/features-usage/generate-report.ts production"
   },
