@@ -9,11 +9,24 @@ const ENV: "sandbox" | "production" | string = process.argv[2];
 const ENV_URL: string =
   (ENV === "sandbox" ? process.env.URL_SANDBOX : process.env.URL_PROD) || "";
 
-const DEPLOY_VERSION = process.argv[3];
-
 const wait = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 
-const genFeaturesList = async (page: puppeteer.Page) => {
+const getBundleVersion = async (page: puppeteer.Page): Promise<any> => {
+  const version: string = await page.evaluate(
+    async ({ ENV_URL }) => {
+      const response = await fetch(`${ENV_URL}/deployments/fusion/live`);
+      return await response.json();
+    },
+    { ENV_URL }
+  );
+
+  return version;
+};
+
+const genFeaturesList = async (
+  page: puppeteer.Page,
+  DEPLOY_VERSION: string
+) => {
   const data = await page.evaluate(
     async ({ ENV_URL, DEPLOY_VERSION }) => {
       const response = await fetch(
@@ -184,7 +197,12 @@ const genTemplatesInfo = async (page: puppeteer.Page) => {
 
   await page.waitForSelector("[data-testid='section-contentCreation']");
 
-  await genFeaturesList(page);
+  const bundleVersionResponse = await getBundleVersion(page);
+  const bundleVersion = bundleVersionResponse.live;
+
+  console.log(`Entorno: ${ENV}`, `\nBundle version: ${bundleVersion}\n`);
+
+  await genFeaturesList(page, bundleVersion);
 
   await genPagesInfo(page);
 

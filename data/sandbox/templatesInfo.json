@@ -36,21 +36,6 @@
     ]
   },
   {
-    "id": "archivo-gestion",
-    "name": "archivo-gestion",
-    "featuresList": [
-      "layout/navbar",
-      "layout/header",
-      "custom-title/default",
-      "stories-lists/archive",
-      "widgets/archive-calendar",
-      "cards/most-read",
-      "stories-lists/card",
-      "separators/basic",
-      "layout/footer"
-    ]
-  },
-  {
     "id": "archivo-elcomercio",
     "name": "archivo-elcomercio",
     "featuresList": [
@@ -73,6 +58,21 @@
       "ads/default",
       "footer/elcomercio",
       "ads/default"
+    ]
+  },
+  {
+    "id": "archivo-gestion",
+    "name": "archivo-gestion",
+    "featuresList": [
+      "layout/navbar",
+      "layout/header",
+      "custom-title/default",
+      "stories-lists/archive",
+      "widgets/archive-calendar",
+      "cards/most-read",
+      "stories-lists/card",
+      "separators/basic",
+      "layout/footer"
     ]
   },
   {
@@ -365,22 +365,6 @@
     ]
   },
   {
-    "id": "elcomercio-noticia-video",
-    "name": "elcomercio-noticia-video",
-    "featuresList": [
-      "ads/default",
-      "ads/default",
-      "ads/default",
-      "ads/default",
-      "header/inverted",
-      "header/section-title",
-      "video/section",
-      "video/list",
-      "footer/elcomercio",
-      "ads/default"
-    ]
-  },
-  {
     "id": "elcomercio-secciones",
     "name": "elcomercio-secciones",
     "featuresList": [
@@ -394,6 +378,22 @@
       "ads/default",
       "stories-lists/stories-news",
       "ads/default",
+      "footer/elcomercio",
+      "ads/default"
+    ]
+  },
+  {
+    "id": "elcomercio-noticia-video",
+    "name": "elcomercio-noticia-video",
+    "featuresList": [
+      "ads/default",
+      "ads/default",
+      "ads/default",
+      "ads/default",
+      "header/inverted",
+      "header/section-title",
+      "video/section",
+      "video/list",
       "footer/elcomercio",
       "ads/default"
     ]
@@ -1196,27 +1196,7 @@
   {
     "id": "tag",
     "name": "tag",
-    "featuresList": [
-      "ads/default",
-      "ads/default",
-      "ads/default",
-      "navbar/standard-ext-signwall",
-      "ads/default",
-      "header/standard",
-      "custom-title/default",
-      "ads/default",
-      "stories-lists/paginated-list",
-      "ads/default",
-      "ads/default",
-      "ads/default",
-      "ads/default",
-      "cards/most-read",
-      "ads/default",
-      "ads/default",
-      "ads/default",
-      "layout/footer",
-      "ads/default"
-    ]
+    "featuresList": []
   },
   {
     "id": "sitemap-options",
@@ -1377,6 +1357,18 @@
     ]
   },
   {
+    "id": "trome-noticia-video",
+    "name": "trome-noticia-video",
+    "featuresList": [
+      "layout/navbar-nomenu",
+      "header/header-full",
+      "ads/default",
+      "video/section",
+      "video/list",
+      "footer/depor"
+    ]
+  },
+  {
     "id": "elcomerciomag-noticia-recetas",
     "name": "elcomerciomag-noticia-recetas",
     "featuresList": [
@@ -1392,18 +1384,6 @@
       "cards/most-read",
       "footer/standard-g21",
       "story/continue"
-    ]
-  },
-  {
-    "id": "trome-noticia-video",
-    "name": "trome-noticia-video",
-    "featuresList": [
-      "layout/navbar-nomenu",
-      "header/header-full",
-      "ads/default",
-      "video/section",
-      "video/list",
-      "footer/depor"
     ]
   },
   {
@@ -1437,11 +1417,6 @@
     ]
   },
   {
-    "id": "test-especial",
-    "name": "test-especial",
-    "featuresList": []
-  },
-  {
     "id": "blogs-home",
     "name": "blogs-home",
     "featuresList": [
@@ -1453,6 +1428,11 @@
       "stories-lists/card",
       "layout/footer"
     ]
+  },
+  {
+    "id": "test-especial",
+    "name": "test-especial",
+    "featuresList": []
   },
   {
     "id": "fb-instant-article",
@@ -1947,6 +1927,14 @@
     ]
   },
   {
+    "id": "tgxUbz3aci0S69as",
+    "name": "buscar2",
+    "featuresList": [
+      "widgets/search-filter",
+      "custom-title/default"
+    ]
+  },
+  {
     "id": "t7tTIjJF3SbGQCbs",
     "name": "peru21-noticia-fotogaleria",
     "featuresList": [
@@ -1983,14 +1971,6 @@
       "layout/footer",
       "story/continue",
       "ads/default"
-    ]
-  },
-  {
-    "id": "tgxUbz3aci0S69as",
-    "name": "buscar2",
-    "featuresList": [
-      "widgets/search-filter",
-      "custom-title/default"
     ]
   },
   {
@@ -2809,6 +2789,34 @@
       "ads/default",
       "story/premium",
       "ads/default"
+    ]
+  },
+  {
+    "id": "tLKmizzA2JuG0sls",
+    "name": "bicentenario webinar - nota video",
+    "featuresList": [
+      "layout/navbar",
+      "header/section",
+      "basic-html/default",
+      "video/section",
+      "ads/default",
+      "video/list",
+      "footer/elcomercio",
+      "basic-html/default"
+    ]
+  },
+  {
+    "id": "tOBXHDstM7KJrls",
+    "name": "bicentenario webinar - seccion videos",
+    "featuresList": [
+      "layout/navbar",
+      "header/section",
+      "basic-html/default",
+      "video/section",
+      "ads/default",
+      "video/list",
+      "footer/elcomercio",
+      "basic-html/default"
     ]
   }
 ]

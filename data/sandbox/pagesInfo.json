@@ -85,20 +85,6 @@
     ]
   },
   {
-    "id": "p02A54DphaAbNr",
-    "name": "El Comercio - Fotogalerías",
-    "uri": "/fotogalerias/",
-    "sites": [
-      "elcomercio"
-    ],
-    "featuresList": [
-      "header/inverted",
-      "header/section-title",
-      "stories-lists/infite-cards",
-      "footer/elcomercio"
-    ]
-  },
-  {
     "id": "p02ORyRsCmnHTr",
     "name": "home40-1",
     "uri": "/home40-1/",
@@ -162,6 +148,20 @@
       "cards/featured-story-manual",
       "custom-title/default",
       "separators/stories",
+      "footer/elcomercio"
+    ]
+  },
+  {
+    "id": "p02A54DphaAbNr",
+    "name": "El Comercio - Fotogalerías",
+    "uri": "/fotogalerias/",
+    "sites": [
+      "elcomercio"
+    ],
+    "featuresList": [
+      "header/inverted",
+      "header/section-title",
+      "stories-lists/infite-cards",
       "footer/elcomercio"
     ]
   },
@@ -422,6 +422,19 @@
     ]
   },
   {
+    "id": "p0AIKEfIABhQHr",
+    "name": "deporqa",
+    "uri": "/depor-qa/",
+    "sites": [
+      "depor"
+    ],
+    "featuresList": [
+      "layout/navbar",
+      "layout/header",
+      "stories-lists/stories-news"
+    ]
+  },
+  {
     "id": "p0BtyOehAGa0Fr",
     "name": "this is a test",
     "uri": "/this-is-a-test/",
@@ -539,19 +552,6 @@
     ]
   },
   {
-    "id": "p0AIKEfIABhQHr",
-    "name": "deporqa",
-    "uri": "/depor-qa/",
-    "sites": [
-      "depor"
-    ],
-    "featuresList": [
-      "layout/navbar",
-      "layout/header",
-      "stories-lists/stories-news"
-    ]
-  },
-  {
     "id": "p08gvY5K5SOWIr",
     "name": "Elcomercio - Buenas practicas old",
     "uri": "/buenas-practicas-old/",
@@ -564,20 +564,6 @@
       "chains/grid-container",
       "basic-html/default",
       "layout/footer"
-    ]
-  },
-  {
-    "id": "p0JieH9qhmhazr",
-    "name": "paywall faqs",
-    "uri": "/suscripcionesdigitales/faqs/",
-    "sites": [
-      "gestion",
-      "elcomercio"
-    ],
-    "featuresList": [
-      "paywall/head",
-      "paywall/faqs",
-      "paywall/foot"
     ]
   },
   {
@@ -641,6 +627,20 @@
       "cards/featured-story-auto",
       "cards/featured-story-auto",
       "layout/footer"
+    ]
+  },
+  {
+    "id": "p0JieH9qhmhazr",
+    "name": "paywall faqs",
+    "uri": "/suscripcionesdigitales/faqs/",
+    "sites": [
+      "gestion",
+      "elcomercio"
+    ],
+    "featuresList": [
+      "paywall/head",
+      "paywall/faqs",
+      "paywall/foot"
     ]
   },
   {
@@ -2948,73 +2948,6 @@
     ]
   },
   {
-    "id": "pdLdGk2PhaY2zr",
-    "name": "Peru21 - homepage",
-    "uri": "/homepage/",
-    "sites": [
-      "peru21"
-    ],
-    "featuresList": [
-      "layout/navbar",
-      "header/standard",
-      "basic-html/default",
-      "breaking-news/default",
-      "extraordinary-story/grid",
-      "chains/flexible-container",
-      "extraordinary-story/by-url",
-      "cards/featured-story-manual",
-      "ads/default",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "chains/flexible-container",
-      "basic-html/default",
-      "chains/grid-container",
-      "separators/opinion",
-      "stories-lists/card",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "ads/default",
-      "cards/featured-story-manual",
-      "ads/default",
-      "cards/tabloid-story",
-      "ads/default",
-      "cards/featured-story-manual",
-      "chains/grid-container",
-      "separators/basic",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "cards/featured-story-manual",
-      "chains/grid-container",
-      "separators/basic",
-      "stories-lists/card",
-      "cards/featured-story-manual",
-      "cards/triplet",
-      "cards/tabloid",
-      "cards/featured-story-manual",
-      "cards/featured-story-auto",
-      "chains/flexible-container",
-      "basic-html/default",
-      "cards/featured-story-advanced",
-      "cards/featured-story-advanced",
-      "story/stick",
-      "layout/footer"
-    ]
-  },
-  {
     "id": "p0d6BAGgQy5FZr",
     "name": "homepage-v2",
     "uri": "/homepage-v2/",
@@ -3054,6 +2987,76 @@
       "cards/featured-story-auto",
       "cards/featured-story-auto",
       "cards/featured-story-auto"
+    ]
+  },
+  {
+    "id": "pdLdGk2PhaY2zr",
+    "name": "Peru21 - homepage",
+    "uri": "/homepage/",
+    "sites": [
+      "peru21"
+    ],
+    "featuresList": [
+      "layout/navbar",
+      "header/standard",
+      "basic-html/default",
+      "breaking-news/default",
+      "extraordinary-story/grid",
+      "chains/flexible-container",
+      "extraordinary-story/by-url",
+      "cards/featured-story-manual",
+      "ads/default",
+      "stories-lists/stories-video",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual",
+      "chains/flexible-container",
+      "basic-html/default",
+      "chains/grid-container",
+      "separators/opinion",
+      "stories-lists/card",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual",
+      "ads/default",
+      "cards/featured-story-manual",
+      "ads/default",
+      "cards/tabloid-story",
+      "ads/default",
+      "chains/grid-container",
+      "separators/basic",
+      "chains/grid-container",
+      "separators/basic",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual",
+      "chains/grid-container",
+      "separators/basic",
+      "chains/grid-container",
+      "separators/basic",
+      "stories-lists/card",
+      "cards/featured-story-manual",
+      "cards/tabloid",
+      "cards/featured-story-manual",
+      "cards/tabloid",
+      "cards/featured-story-auto",
+      "chains/flexible-container",
+      "basic-html/default",
+      "cards/featured-story-advanced",
+      "cards/featured-story-advanced",
+      "story/stick",
+      "layout/footer"
     ]
   },
   {
@@ -4427,7 +4430,32 @@
     "uri": "/test2021-1/",
     "sites": [],
     "featuresList": [
-      "cards/featured-story-auto"
+      "cards/featured-story-auto",
+      "cards/featured-story-manual",
+      "cards/featured-story-manual-live"
+    ]
+  },
+  {
+    "id": "ppex5hANExtnKMrls",
+    "name": "Comercio - Bicentenario",
+    "uri": "/bicentenario/",
+    "sites": [
+      "elcomercio"
+    ],
+    "featuresList": [
+      "layout/navbar",
+      "header/section",
+      "basic-html/default",
+      "chains/ordered-stories",
+      "cards/featured-story-premium",
+      "cards/featured-story-premium",
+      "cards/featured-story-premium",
+      "cards/triplet",
+      "cards/featured-story-premium",
+      "cards/featured-story-premium",
+      "ads/default",
+      "stories-lists/stories-news",
+      "footer/elcomercio"
     ]
   }
 ]
