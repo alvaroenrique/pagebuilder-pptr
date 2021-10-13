@@ -1,0 +1,3030 @@
+[
+  {
+    "id": "p00Rv0tK8QSUJr",
+    "name": "El Comercio - Martín Vizcarra",
+    "uri": "/martin-vizcarra/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p04jQIN5iUn6Dr",
+    "name": "El comercio - Sub Sección Lifweek Programa",
+    "uri": "/lifweek/programa/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "HTML Básico",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p086gL4P48sWCr",
+    "name": "El Comercio - Error404",
+    "uri": "/error/404/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Error 404",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p065fONByhfJCr",
+    "name": "El Comercio - Sub Sección Deporte Total Champions League",
+    "uri": "/deporte-total/champions-league/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0AHibnzMEaZBr",
+    "name": "El Comercio - Sub Sección Deporte Total Selección",
+    "uri": "/deporte-total/seleccion/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0DhbMvXd68WCr",
+    "name": "El Comercio - Sub Sección Somos Fotos",
+    "uri": "/somos/fotos/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0BoQZpmRqbVJr",
+    "name": "El Comercio - Sunat",
+    "uri": "/sunat/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0EFmahdMR4VJr",
+    "name": "El Comercio - Alberto Fujimori",
+    "uri": "/alberto-fujimori/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0E9JhNLbIUCCr",
+    "name": "El Comercio - Terminos y condiciones",
+    "uri": "/terminos-y-condiciones/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera de Página",
+      "chains/grid-container",
+      "Páginas estáticas",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0B3D2woAIGTTr",
+    "name": "sinsignwall",
+    "uri": "/sinsignwall/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cintillo Urgente",
+      "Apertura extraordinaria por historia",
+      "chains/block-container",
+      "Destaque por URL / En Vivo",
+      "Triplete",
+      "Imagen con enlace",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Separador - noticias",
+      "Destaque Premium",
+      "chains/flexible-container",
+      "chains/grid-container",
+      "Separador - Opinión",
+      "Último minuto",
+      "Destaque por URL",
+      "Grid de noticias por sección - async",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0GlS2jPhhicFr",
+    "name": "El Comercio - Sitemap Mag Web",
+    "uri": "/sitemap/mag-web/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "xml/mag-stories-sitemap-web"
+    ]
+  },
+  {
+    "id": "p0IVqAhFn1AVCr",
+    "name": "El Comercio - Sub Sección Panamericanos 2019 Videos",
+    "uri": "/panamericanos-lima-2019/videos/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Título Personalizable",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0Hw5oH8fyfWCr",
+    "name": "El Comercio - Sub Sección Somos Videos",
+    "uri": "/somos/videos/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0Kk1mAz1PMXQr",
+    "name": "El Comercio - Sección - Desde la redacción Fotos Videos",
+    "uri": "/desde-la-redaccion/fotos-videos/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0K3NRvLTAPDCr",
+    "name": "El Comercio - Oficinas Concesionarias",
+    "uri": "/oficinas-concesionarias-test/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera de Página",
+      "Oficinas Concesionarias",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0MLP1ShSDAEXr",
+    "name": "noscriptsec",
+    "uri": "/noscriptsec/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - básico",
+      "Cabecera - Estándar",
+      "Cintillo Urgente",
+      "Apertura extraordinaria por historia",
+      "chains/block-container",
+      "Destaque por URL / En Vivo",
+      "Triplete",
+      "Destaque Premium",
+      "Título Personalizable",
+      "Separador - noticias",
+      "Destaque por URL",
+      "Destaque Avanzado",
+      "chains/flexible-container",
+      "chains/grid-container",
+      "Separador - Opinión",
+      "Imagen con enlace",
+      "Último minuto",
+      "HTML Básico",
+      "Noticias por sección - async",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0MjqctbcfzVCr",
+    "name": "El Comercio - Sub Sección Panamericanos 2019 Fotos",
+    "uri": "/panamericanos-lima-2019/fotos/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Título Personalizable",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0OK836cGlFuKr",
+    "name": "El Comercio - Universitario de Deportes",
+    "uri": "/universitario-de-deportes/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0MAz6L2GCnsZr",
+    "name": "El Comercio - Deportes",
+    "uri": "/deportes/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Título Personalizable",
+      "Listado con scroll infinito",
+      "Calendario Archivo",
+      "Últimas Noticias",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0QvUelNBIaWCr",
+    "name": "El Comercio - Sección 180 años 2019 Fotos",
+    "uri": "/180-anos-diario-el-comercio-2019/fotos/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0SeY5mFy5LUJr",
+    "name": "El Comercio - Nicolás Maduro",
+    "uri": "/nicolas-maduro/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0Uwe9oR9VeWCr",
+    "name": "El Comercio - Sección 180 años 2019 Videos",
+    "uri": "/180-anos-diario-el-comercio-2019/videos/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0VQFgxQ5P9pYr",
+    "name": "El Comercio - Feed",
+    "uri": "/feed/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Título Personalizable",
+      "Listado con scroll infinito",
+      "Calendario Archivo",
+      "Últimas Noticias",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0XLU93DJHbZBr",
+    "name": "El Comercio - Sub Sección Deporte Total Running",
+    "uri": "/deporte-total/running/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "header/inverted",
+      "Cabecera - Título independiente",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0YSe0oOdDjVCr",
+    "name": "El Comercio - Sub Sección Juntos contra Anemia Recetas",
+    "uri": "/juntos-contra-anemia/recetas/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Apertura extraordinaria por sección",
+      "Destaque Avanzado",
+      "Destaque Full Imagen",
+      "Separador - noticias",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0YsaAmNVbDuKr",
+    "name": "El Comercio - Miembros de mesa",
+    "uri": "/miembros-de-mesa/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "header/inverted",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0XIhw9HaFSNTr",
+    "name": "portada3",
+    "uri": "/portada3/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación Sin Signwall",
+      "Cabecera - Estándar",
+      "Cintillo Urgente",
+      "Apertura extraordinaria por historia",
+      "chains/block-container",
+      "Destaque por URL / En Vivo",
+      "Triplete",
+      "Imagen con enlace",
+      "Destaque Premium",
+      "Título Personalizable",
+      "Separador - noticias",
+      "Destaque por URL",
+      "Destaque Avanzado",
+      "chains/flexible-container",
+      "chains/grid-container",
+      "Separador - Opinión",
+      "Último minuto",
+      "Grid de noticias por sección - async",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0ZVRwRKPU3FCr",
+    "name": "El Comercio - Procedimiento-arco",
+    "uri": "/procedimiento-arco/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera de Página",
+      "chains/grid-container",
+      "Páginas estáticas",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0adMI6EnTFuKr",
+    "name": "El Comercio - Venezuela",
+    "uri": "/venezuela/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0dTJEHwbXdWCr",
+    "name": "El Comercio - Sub Sección Orientacion Vocacional",
+    "uri": "/somos/orientacion-vocacional/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0bI18dIAesVCr",
+    "name": "El Comercio - Sección Panamericanos 2019",
+    "uri": "/panamericanos-lima-2019/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0bT68eJlAcZBr",
+    "name": "El Comercio - Sub Sección Deporte Total Copa Confederaciones",
+    "uri": "/deporte-total/copa-confederaciones/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "header/inverted",
+      "Cabecera - Título independiente",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0bnzwjBTUzJCr",
+    "name": "El Comercio - Sub Sección Copa America Videos",
+    "uri": "/copa-america/videos/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0bFGosMLl9WCr",
+    "name": "El Comercio - Sub Sección Somos Historia",
+    "uri": "/somos/historia/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0ZJ1tlkkrMVCr",
+    "name": "El Comercio - Sección Ruedas Tuercas",
+    "uri": "/ruedas-tuercas/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/grid-container",
+      "Apertura extraordinaria por sección",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Separador - noticias",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0bF6XfMcEVIzr",
+    "name": "paywall coorparativo",
+    "uri": "/suscripcionesdigitales/empresa/",
+    "sites": "gestion,elcomercio",
+    "featuresList": [
+      "subscriptions/pages"
+    ]
+  },
+  {
+    "id": "p0e4Tc3splhWCr",
+    "name": "El Comercio - Sub Sección Copa América Fixture",
+    "uri": "/copa-america/fixture/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "HTML Básico",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0eN2q6hjgvJCr",
+    "name": "El Comercio - Sub Seccíon Copa America Fotos",
+    "uri": "/copa-america/fotos/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0f1LVgIAPDuKr",
+    "name": "El Comercio - Onpe",
+    "uri": "/onpe/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0fXeOfVDssECr",
+    "name": "El Comercio - Politica Integrada de Gestion",
+    "uri": "/politica-integrada-de-gestion/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera de Página",
+      "chains/grid-container",
+      "Páginas estáticas",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0ikZtHc3pGuKr",
+    "name": "El Comercio - Youtube",
+    "uri": "/youtube/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0kWGE7jcWeWCr",
+    "name": "El Comercio - Sub Sección Somos Test de Proust",
+    "uri": "/somos/test-de-proust/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0oNYLgJjkhKCr",
+    "name": "El Comercio - Sub Sección Casa y Mas Mantenimiento",
+    "uri": "/casa-y-mas/mantenimiento/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Título Personalizable",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0qiFw2H727WCr",
+    "name": "El Comercio - Sub Sección Somos Firmas",
+    "uri": "/somos/firmas/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0qDAgZ8h0icFr",
+    "name": "El Comercio - Sitemap Mag News",
+    "uri": "/sitemap/mag-news/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "xml/mag-stories-sitemap-news"
+    ]
+  },
+  {
+    "id": "p0sTRsA0KvBuKr",
+    "name": "El Comercio - FC Barcelona",
+    "uri": "/fc-barcelona/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0sYyUarxnwVCr",
+    "name": "El Comercio - Sub Sección Panamericanos 2019 Agenda",
+    "uri": "/panamericanos-lima-2019/agenda/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Título Personalizable",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0uU7czsrmO3Rr",
+    "name": "live-test",
+    "uri": "/live-test/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera de Página",
+      "Apertura extraordinaria por historia",
+      "Cintillo Urgente",
+      "Separador destacado",
+      "chains/block-container",
+      "Destaque por URL / En Vivo",
+      "Destaque por URL",
+      "Destaque Premium",
+      "Triplete",
+      "chains/flexible-container",
+      "chains/grid-container",
+      "Título Personalizable",
+      "Separador - Opinión",
+      "Último minuto",
+      "Destaque Avanzado",
+      "HTML Básico",
+      "Separador - noticias",
+      "Noticias por sección",
+      "Mini-Cartelera",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p19xKc22HUrKCr",
+    "name": "El Comercio - Sub Sección Dakar Videos",
+    "uri": "/dakar/videos/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Título Personalizable",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p1AX2O1XJnq10s",
+    "name": "envivo3",
+    "uri": "/envivo3/",
+    "sites": "elcomercio",
+    "featuresList": []
+  },
+  {
+    "id": "p1ZpXw17kAdWCr",
+    "name": "El Comercio - Sección 180 años 2019 Testimonios",
+    "uri": "/180-anos-diario-el-comercio-2019/testimonios/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p6LfIA15p1NXQr",
+    "name": "El Comercio - Sección - Desde la redacción  Pregúntanos",
+    "uri": "/desde-la-redaccion/preguntanos/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "HTML Básico",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p63lAq1TdLcKCr",
+    "name": "El Comercio - Sub Sección Casa y Mas Hazlo tu Mismo",
+    "uri": "/casa-y-mas/hazlo-tu-mismo/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Título Personalizable",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p6PdLg2qCEVUJr",
+    "name": "El Comercio - PPK",
+    "uri": "/ppk/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pC2tYo1oca3ECr",
+    "name": "El Comercio - Principios Rectores",
+    "uri": "/principios-rectores/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera de Página",
+      "chains/grid-container",
+      "Páginas estáticas",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p9M0L420LHPlCr",
+    "name": "El Comercio - Sección 180 años 2019 Portadas",
+    "uri": "/180-anos-diario-el-comercio-2019/portadas/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Listado Tabloide",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pAFhL616fiZICr",
+    "name": "El Comercio - Sub Sección Lifweek Backstage",
+    "uri": "/lifweek/backstage/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Título Personalizable",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pALzqh1m3LElCr",
+    "name": "El Comercio - Sección Juntos Contra Anemia",
+    "uri": "/juntos-contra-anemia/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/grid-container",
+      "Apertura extraordinaria por historia",
+      "Destaque Avanzado",
+      "Destaque Full Imagen",
+      "Título Personalizable",
+      "Separador - noticias",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pC5G051W3eaKCr",
+    "name": "El Comercio - Sub Sección Casa y Mas Arquitectura",
+    "uri": "/casa-y-mas/arquitectura/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Título Personalizable",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pFpwM51axm5WCr",
+    "name": "El Comercio - Sub Sección Somos Estilo",
+    "uri": "/somos/estilo/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pD5waV16mDoKCr",
+    "name": "El Comercio - Sub Sección Dakar Noticias",
+    "uri": "/dakar/noticias/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Sección",
+      "Título Personalizable",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pF6TpF1zsYH9Tr",
+    "name": "El Comercio - Suscripción Coronavirus",
+    "uri": "/suscripcion-coronavirus/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Signwall externo",
+      "Cabecera de Página",
+      "Newsletter",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pIlteL1iwVAuKr",
+    "name": "El Comercio - Facebook",
+    "uri": "/facebook/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pGvuS417x48VJr",
+    "name": "El Comercio - Netflix",
+    "uri": "/netflix/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pHVqW71ayCbKCr",
+    "name": "El Comercio - Sub Sección Casa y Mas Decoracion",
+    "uri": "/casa-y-mas/decoracion/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Título Personalizable",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pIUbBS1dYSEuKr",
+    "name": "El Comercio - Sismo",
+    "uri": "/sismo/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pHmWuc2A2SVnIr",
+    "name": "El comercio - Buenas practicas old",
+    "uri": "/buenas-practicas-old/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera de Página",
+      "chains/grid-container",
+      "HTML Básico",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pMytBC1tbMxJCr",
+    "name": "El Comercio - Sub Sección Copa America Noticias",
+    "uri": "/copa-america/noticias/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pN6MS92eauaVJr",
+    "name": "El Comercio - Google Maps",
+    "uri": "/google-maps/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pNDwfe13DTmsZr",
+    "name": "El Comercio - Online",
+    "uri": "/Online/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Título Personalizable",
+      "Listado con scroll infinito",
+      "Calendario Archivo",
+      "Últimas Noticias",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pOs8IO1UroEuKr",
+    "name": "El Comercio - Real Madrid",
+    "uri": "/real-madrid/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pNe3bk11gCapYr",
+    "name": "El Comercio - Machu-picchu",
+    "uri": "/machu-picchu/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pQ0F462na0hiFr",
+    "name": "H&S",
+    "uri": "/headandshoulders/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "header/inverted",
+      "Título Personalizable",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pSEsNj2DwhyTJr",
+    "name": "El Comercio - Horóscopo",
+    "uri": "/horoscopo/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pXfSgr17ODkVCr",
+    "name": "El Comercio - Sub Sección Juntos contra Anemia Últimas",
+    "uri": "/juntos-contra-anemia/ultimas/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Apertura extraordinaria por sección",
+      "Destaque Avanzado",
+      "Destaque Full Imagen",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pZ33oV1OxQWUJr",
+    "name": "El Comercio - Odebrecht",
+    "uri": "/odebrecht/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pa27612D1sCuKr",
+    "name": "El Comercio - Game Of Thrones",
+    "uri": "/game-of-thrones/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "paK3Ar1jMUHlCr",
+    "name": "El Comercio - Sección 180 años 2019 Historias",
+    "uri": "/180-anos-diario-el-comercio-2019/historias/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pexG582gwwxVCr",
+    "name": "El Comercio - Sub Sección Panamericanos 2019 Medallero",
+    "uri": "/panamericanos-lima-2019/medallero/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Título Personalizable",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pbVHU81QGExjDr",
+    "name": "El Comercio - Sección E-Sports",
+    "uri": "/tecnologia/e-sports/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pcO7zb1gW8SrPr",
+    "name": "El Comercio - Politica de cookies (temporal)",
+    "uri": "/politica-de-cooks/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad"
+    ]
+  },
+  {
+    "id": "pcvP7T1jxSdmCr",
+    "name": "El Comercio - Sección Lifweek",
+    "uri": "/lifweek/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Apertura extraordinaria por historia",
+      "chains/ordered-stories",
+      "Triplete",
+      "Destaque Avanzado",
+      "Destaque Full Imagen",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pe0TPB1vfAMXQr",
+    "name": "El Comercio - Sección - Desde la redacción Palabra del decano",
+    "uri": "/desde-la-redaccion/palabra-del-decano/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pdfPjG1H9JUhDr",
+    "name": "El Comercio - Suscripción",
+    "uri": "/suscripcion-newsletter/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación",
+      "Cabecera de Página",
+      "Newsletter",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pgqkqE1X664JCr",
+    "name": "El Comercio - Sub Sección Lifweel Desfiles",
+    "uri": "/lifweek/desfiles/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Título Personalizable",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "piUaTa2vuL6JCr",
+    "name": "El Comercio - Sub Sección Lifweek Lo Mas Trendy",
+    "uri": "/lifweek/lo-mas-trendy/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Título Personalizable",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pjRq9q133yuVCr",
+    "name": "El Comercio - Sub Sección Panamericanos 2019 Noticias",
+    "uri": "/panamericanos-lima-2019/noticias/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Título Personalizable",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pjild01BYVzuKr",
+    "name": "El Comercio - Champions League",
+    "uri": "/champions-league/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "piJYux1gufXmCr",
+    "name": "El Comercio - Sección casa y más",
+    "uri": "/casa-y-mas/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "HTML Básico",
+      "chains/grid-container",
+      "Apertura extraordinaria por sección",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Separador - noticias",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pkZ5jF1RKdgKCr",
+    "name": "El Comercio - Sub Sección Casa y Mas Ideas y diseño",
+    "uri": "/casa-y-mas/ideas-y-diseno/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Título Personalizable",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "plRe4D1RoOlKCr",
+    "name": "El Comercio - Seccion Dakar",
+    "uri": "/dakar/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "plaPB81Kow34Tr",
+    "name": "El Comercio - Error410",
+    "uri": "/error/410/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Error 404",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pkonzu10EktlCr",
+    "name": "El Comercio - El Comercio TV",
+    "uri": "/el-comercio-tv/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Destaque TV - Beta",
+      "Título Personalizable",
+      "Separador - noticias",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pnzZUS1Xna2FCr",
+    "name": "El Comercio - Politica de cookies",
+    "uri": "/politica-de-cookies/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera de Página",
+      "chains/grid-container",
+      "Páginas estáticas",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pmm6HV1rLcoVCr",
+    "name": "El Comercio - Sección Mundial",
+    "uri": "/mundial/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pqM9Gg1jdu7pYr",
+    "name": "El Comercio - Online",
+    "uri": "/online/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Título Personalizable",
+      "Listado con scroll infinito",
+      "Calendario Archivo",
+      "Últimas Noticias",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "prP54y1DI8rKCr",
+    "name": "El Comercio - Sub Sección Dakar Resultados",
+    "uri": "/dakar/resultados/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Título Personalizable",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "ps3Zk82roM7JCr",
+    "name": "El Comercio - Sub Sección Lifweek Sociales",
+    "uri": "/lifweek/sociales/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Título Personalizable",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "prHIKc2f3WThFr",
+    "name": "Pantene",
+    "uri": "/pantene/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "header/inverted",
+      "Título Personalizable",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "ptJsH117tbiOHr",
+    "name": "lusho comercio",
+    "uri": "/test-blank/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación",
+      "Cabecera de Página",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "ptV3Pi2hemwWCr",
+    "name": "El Comercio - Error500",
+    "uri": "/error/500/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Error 404",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pxbgUh1UoQy10s",
+    "name": "Elcomercio - envivo33",
+    "uri": "/envivo33/",
+    "sites": "elcomercio",
+    "featuresList": []
+  },
+  {
+    "id": "pxBOmD1zaKyJCr",
+    "name": "El Comercio - Sub Sección Copa America Perú",
+    "uri": "/copa-america/peru/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pxqjZM1RBCEmCr",
+    "name": "El Comercio - Sección Copa America",
+    "uri": "/copa-america/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Apertura extraordinaria por sección",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Destaque Full Imagen",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pxszWT1qS2mlCr",
+    "name": "El Comercio - Sección 180 años 2019",
+    "uri": "/180-anos-diario-el-comercio-2019/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "Apertura extraordinaria por historia",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Destaque Full Imagen",
+      "Separador - noticias",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pygMFy1nb6C8Lr",
+    "name": "El Comercio - Las Fuerzas Vivas",
+    "uri": "/las-fuerzas-vivas/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pyhmv72cgaWIzr",
+    "name": "paywall faq",
+    "uri": "/suscripcionesdigitales/faqs/",
+    "sites": "gestion,elcomercio",
+    "featuresList": [
+      "subscriptions/pages"
+    ]
+  },
+  {
+    "id": "ptyx2qNwgV9PG1us",
+    "name": "El Comercio - Saltar Intro - Homepage",
+    "uri": "/saltar-intro/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "Cabecera - Sección",
+      "HTML Básico",
+      "Destaque Full Imagen",
+      "Separador de Estrenos - Saltar Intro",
+      "Título - Saltar Intro",
+      "Separador - Saltar Intro",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "p0uhr2BxZniWSr",
+    "name": "portada2",
+    "uri": "/portada2/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación Sin Signwall",
+      "Cabecera - Estándar",
+      "Cintillo Urgente",
+      "Apertura extraordinaria - En vivo",
+      "Destaque por URL",
+      "Último minuto",
+      "Triplete",
+      "Destaque Avanzado",
+      "Tabloide",
+      "chains/flexible-container",
+      "Separador Básico",
+      "Título Personalizable",
+      "Destaque por Sección",
+      "chains/ordered-stories",
+      "Pie de Página"
+    ]
+  },
+  {
+    "id": "pLG0fC10pJklCr",
+    "name": "El Comercio - Sección Colecciones el Comercio",
+    "uri": "/colecciones-el-comercio/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Título Personalizable",
+      "Apertura extraordinaria por historia",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p03Lp1JK4cYYBr",
+    "name": "El Comercio - Sección Perú",
+    "uri": "/peru/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/ordered-stories",
+      "Destaque Premium",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pQ5Z1l114Fvh2s",
+    "name": "Especial 10 goles de Cubillas",
+    "uri": "/mas-especiales/teofilo-cubillas-los-10-goles-del-nene-nndd-ecvisual-ecpm/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "HTML Básico",
+      "Especial - Cabecera Básica",
+      "Especial - Título con imagen de fondo",
+      "Especial - Contenido Nota"
+    ]
+  },
+  {
+    "id": "p0xEKzpSBB1ZBr",
+    "name": "El Comercio - Sección Luces",
+    "uri": "/luces/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - básico",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Destaque Premium",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p7a9gRdM4IL5Rjns",
+    "name": "El Comercio - Temporal",
+    "uri": "/temporal2/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "HTML Básico",
+      "Barra de Navegación - básico",
+      "Cabecera - Estándar",
+      "Signwall - Cintillo Verificación de E-mail",
+      "Cintillo Urgente",
+      "widgets/breaking-news",
+      "chains/block-container",
+      "Destaque Avanzado",
+      "Destaque Premium",
+      "Imagen con enlace",
+      "Separador - noticias",
+      "chains/flexible-container",
+      "Triplete",
+      "Último minuto",
+      "chains/grid-container",
+      "Título Personalizable",
+      "Separador - Opinión",
+      "Destaque de autor",
+      "Noticias por sección - async",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pt8SjJiqetYe10V4s",
+    "name": "El Comercio - Page Builder Nuevo",
+    "uri": "/page-builder/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - básico",
+      "Cabecera - Estándar",
+      "Cintillo Urgente",
+      "Imagen con enlace",
+      "Apertura extraordinaria por historia",
+      "chains/block-container",
+      "Destaque por URL / En Vivo",
+      "Triplete",
+      "Destaque Premium",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Separador - noticias",
+      "chains/flexible-container",
+      "chains/grid-container",
+      "Separador - Opinión",
+      "Último minuto",
+      "Destaque por URL",
+      "HTML Básico",
+      "Noticias por sección - async",
+      "Noticias por sección",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0aOtiZJQt5ZBr",
+    "name": "El Comercio - Sección Deporte Total",
+    "uri": "/deporte-total/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - básico",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/ordered-stories",
+      "Destaque Premium",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "plvxIi2RRlSYBr",
+    "name": "El Comercio - Sección Mundo",
+    "uri": "/mundo/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - básico",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Destaque Premium",
+      "Destaque por URL",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pRndAWgaky2xN25Ls",
+    "name": "El Comercio - Saltar Intro - Tráilers",
+    "uri": "/saltar-intro/trailers/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Cabecera - Sección",
+      "Título - Saltar Intro",
+      "Destaque Entrevista - Saltar Intro",
+      "chains/ordered-stories",
+      "Destaque - Saltar Intro",
+      "Listado - Saltar Intro",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "p0TzqEMTwQyUCr",
+    "name": "El Comercio - Homepage",
+    "uri": "/homepage/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "HTML Básico",
+      "Barra de Navegación - básico",
+      "Cabecera - Estándar",
+      "Signwall - Cintillo Verificación de E-mail",
+      "Apertura extraordinaria por historia",
+      "widgets/breaking-news",
+      "Cintillo Urgente",
+      "chains/block-container",
+      "Destaque Avanzado",
+      "chains/flexible-container",
+      "Destaque Premium",
+      "Triplete",
+      "Separador - noticias",
+      "chains/grid-container",
+      "Último minuto",
+      "Imagen con enlace",
+      "Título Personalizable",
+      "Separador - Opinión",
+      "Destaque de autor",
+      "Noticias por sección - async",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0PIgBTNOB2OTr",
+    "name": "portadaecogest",
+    "uri": "/portadaecogest/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Estándar",
+      "Destaque Premium",
+      "Último minuto",
+      "Destaque Avanzado",
+      "chains/grid-container",
+      "Separador Blog Manual con Editorial",
+      "Título Personalizable",
+      "Tabloide",
+      "Más Leídas",
+      "Separador Básico",
+      "Fotogalería - Beta",
+      "Noticias por sección",
+      "HTML Básico",
+      "Artículo - Abrir en App",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pm3FPi2QAVoMQr",
+    "name": "El Comercio - Desde la redacción",
+    "uri": "/desde-la-redaccion/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "HTML Básico",
+      "Apertura extraordinaria por historia",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Imagen con enlace",
+      "Separador - noticias",
+      "Destaque Full Imagen",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pEeomJDpc4ipwBqs",
+    "name": "El Comercio - Corresponsales escolares",
+    "uri": "/corresponsales-escolares/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "HTML Básico",
+      "Apertura extraordinaria por historia",
+      "chains/ordered-stories",
+      "Destaque Premium",
+      "Destaque Avanzado",
+      "Destaque Full Imagen",
+      "Separador - noticias",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0UzZvWZZMUYBr",
+    "name": "El Comercio - Sección Tecnologia",
+    "uri": "/tecnologia/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Barra de Navegación - Signwall externo",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0AzbAkytVHTSr",
+    "name": "Signwall Login FIA",
+    "uri": "/auth-fia/",
+    "sites": "gestion,elcomercio",
+    "featuresList": [
+      "Redirección temporal",
+      "Signwall - Login / Registo FIA"
+    ]
+  },
+  {
+    "id": "p0EQ4mumuCt2Vr",
+    "name": "Signwall",
+    "uri": "/signwall/",
+    "sites": "depor,diariocorreo,gestion,ojo,peru21,elcomerciomag,elcomercio,peru21g21,perucom,trome",
+    "featuresList": [
+      "Redirección temporal",
+      "Signwall - Página Login / Registro / Hard"
+    ]
+  },
+  {
+    "id": "pzmwbMvCfJrQs1as",
+    "name": "El Comercio - Oficinas Concesionarias Nuevo",
+    "uri": "/oficinas-concesionarias/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera de Página",
+      "Oficinas Concesionarias",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p3VioD1UU7vMQr",
+    "name": "El Comercio - Sección - Desde la redacción Así se hace",
+    "uri": "/desde-la-redaccion/asi-se-hace/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pthCR3bampZPUOBCs",
+    "name": "El Comercio - Bicentenario",
+    "uri": "/bicentenario/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0eXoHWjFaZYBr",
+    "name": "El Comercio - Sección Política",
+    "uri": "/politica/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - básico",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/ordered-stories",
+      "Destaque Premium",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0nodghKhgA6Dr",
+    "name": "El Comercio - Seccion Archivo El Comercio",
+    "uri": "/archivo-elcomercio/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "header/inverted",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/ordered-stories",
+      "Destaque Premium",
+      "Destaque Avanzado",
+      "Destaque Full Imagen",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pHWGdo1wf0ZVCr",
+    "name": "El Comercio - Sección Wuf",
+    "uri": "/wuf/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "Apertura extraordinaria por historia",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Separador - noticias",
+      "Título Personalizable",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pz64ci4WTy4WnCu5s",
+    "name": "El Comercio - Historias virales: una serie en pandemia",
+    "uri": "/historias-virales-serie-en-pandemia/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Imagen con enlace",
+      "Apertura extraordinaria por sección",
+      "chains/ordered-stories",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pvqIG6taXvi0Kx6as",
+    "name": "El Comercio - Oficinas Concesionarias Ubicación",
+    "uri": "/oficinas-concesionarias-ubicacion/",
+    "sites": "elcomercio",
+    "featuresList": []
+  },
+  {
+    "id": "pEAInHTm1wgsWcJs",
+    "name": "El Comercio - Publirreportaje - Mootcourtutp",
+    "uri": "/publirreportaje/mootcourtutp/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Imagen con enlace",
+      "Apertura extraordinaria por sección",
+      "Título Personalizable",
+      "Listado con scroll infinito",
+      "Últimas Noticias",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pEX8Ob1XYqUK2s",
+    "name": "El Comercio - Mundo - México",
+    "uri": "/mundo/mexico/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pOK1g61FxraECr",
+    "name": "El Comercio - Politicas de Privacidad",
+    "uri": "/politicas-privacidad/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera de Página",
+      "chains/grid-container",
+      "Páginas estáticas",
+      "HTML Básico",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pJhLetjIMnXOeiDFs",
+    "name": "El Comercio - Buscar",
+    "uri": "/buscar/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - básico",
+      "Cabecera - Estándar",
+      "Filtro de búsqueda",
+      "Últimas Noticias",
+      "Pié de página - El Comercio",
+      "HTML Básico"
+    ]
+  },
+  {
+    "id": "p233zlPGgOZSQMqs",
+    "name": "El Comercio - Tratamiento de Datos ",
+    "uri": "/tratamiento-de-datos/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - básico",
+      "Cabecera - Estándar",
+      "Páginas estáticas",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "prvMUY14FzGxwmKos",
+    "name": "[Paywall] Contador Externo",
+    "uri": "/paywall-counter-external/",
+    "sites": "elcomercio",
+    "featuresList": []
+  },
+  {
+    "id": "pV59aKXmOluJH615s",
+    "name": "El Comercio - PortadaTest",
+    "uri": "/portadatest/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - básico",
+      "Cabecera - Estándar",
+      "Cintillo Urgente",
+      "Imagen con enlace",
+      "Apertura extraordinaria por historia",
+      "chains/block-container",
+      "Destaque por URL / En Vivo",
+      "Triplete",
+      "Destaque Premium",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Separador - noticias",
+      "chains/flexible-container",
+      "chains/grid-container",
+      "Separador - Opinión",
+      "Último minuto",
+      "Destaque por URL",
+      "HTML Básico",
+      "Noticias por sección - async",
+      "Noticias por sección",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pfroYv04Tu1ZJk2as",
+    "name": "El Comercio - en vivo",
+    "uri": "/en-vivo/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - básico",
+      "Cabecera - Estándar",
+      "Apertura extraordinaria por historia",
+      "Cintillo Urgente",
+      "widgets/breaking-news",
+      "Minuto a minuto",
+      "chains/block-container",
+      "Destaque por URL / En Vivo",
+      "Destaque Avanzado",
+      "Destaque Premium",
+      "Triplete",
+      "Separador - noticias",
+      "Último minuto",
+      "chains/flexible-container",
+      "chains/grid-container",
+      "Título Personalizable",
+      "Separador - Opinión",
+      "Destaque de autor",
+      "Destaque por URL",
+      "Imagen con enlace",
+      "HTML Básico",
+      "Noticias por sección - async",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pr3FT72FOXVXBr",
+    "name": "El Comercio - Sección Economía",
+    "uri": "/economia/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - básico",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/ordered-stories",
+      "Destaque Premium",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pX2B32qXtyfESV1us",
+    "name": "El Comercio - Saltar Intro - Series",
+    "uri": "/saltar-intro/series/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "Cabecera - Sección",
+      "HTML Básico",
+      "Título - Saltar Intro",
+      "chains/ordered-stories",
+      "Destaque - Saltar Intro",
+      "Separador - Saltar Intro",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "pui4HzST3K98Y1us",
+    "name": "El Comercio - Saltar Intro - Películas",
+    "uri": "/saltar-intro/peliculas/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "Cabecera - Sección",
+      "HTML Básico",
+      "Título - Saltar Intro",
+      "chains/ordered-stories",
+      "Destaque - Saltar Intro",
+      "Separador - Saltar Intro",
+      "Destaque Full Imagen",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "pN7y3f2Dizv7Z1us",
+    "name": "El Comercio - Saltar Intro - Críticas",
+    "uri": "/saltar-intro/criticas/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "Cabecera - Sección",
+      "HTML Básico",
+      "Título - Saltar Intro",
+      "chains/ordered-stories",
+      "Destaque - Saltar Intro",
+      "Listado Críticas - Saltar Intro",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "pToCge2Sja4D4s",
+    "name": "Suscripciones Test A/B",
+    "uri": "/suscripciones-testab/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "HTML Básico"
+    ]
+  },
+  {
+    "id": "pPAsU51CxicVJr",
+    "name": "El Comercio - Alianza Lima",
+    "uri": "/alianza-lima/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "px8NNB04LwbwriICs",
+    "name": "El Comercio - Provecho",
+    "uri": "/provecho/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Header - Provecho",
+      "Separador - Saltar Intro",
+      "Título - Saltar Intro",
+      "Apertura extraordinaria por historia",
+      "chains/flexible-container",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Último minuto",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "pv9rfz1b6hTVCr",
+    "name": "El Comercio - Sección Viu",
+    "uri": "/viu/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/grid-container",
+      "Apertura extraordinaria por sección",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Separador - noticias",
+      "Título Personalizable",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p00NOncFs6RVCr",
+    "name": "El Comercio - Sección Vamos",
+    "uri": "/vamos/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/grid-container",
+      "Apertura extraordinaria por sección",
+      "chains/ordered-stories",
+      "Destaque Avanzado",
+      "Separador - noticias",
+      "Título Personalizable",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0xHScjJAL8CEr",
+    "name": "El Comercio - Podcast",
+    "uri": "/podcast/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Podcast - Título",
+      "Podcast - Apertura Extraordinaria",
+      "Podcast - Separador",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0iMJ1vv6R7FFr",
+    "name": "El comercio - newsletters",
+    "uri": "/newsletters/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera de Página",
+      "HTML Básico",
+      "statics/newsletters-subscription",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pV21pKV0ComhzVJ6s",
+    "name": "El Comercio - Sección Publirreportaje",
+    "uri": "/publirreportaje/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0MLcoH8LpxD4s",
+    "name": "Selección Peruana: a 90 años de su debut en los mundiales ",
+    "uri": "/mas-especiales/seleccion-peruana-90-anios-debut-mundiales-nndd-ecvisual-ecpm/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "HTML Básico",
+      "Especial - Cabecera Básica",
+      "Especial - Título con imagen de fondo",
+      "Especial - Contenido Nota"
+    ]
+  },
+  {
+    "id": "pUUdI519gm4ZBr",
+    "name": "El Comercio - Sección TV Mas",
+    "uri": "/tvmas/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - básico",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p9CvsW1U96dzfK6s",
+    "name": "El Comercio - Sección Redes Sociales",
+    "uri": "/redes-sociales/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pe9OYKYg3ThxpK6s",
+    "name": "El comercio - Landing de correcciones",
+    "uri": "/correcciones/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Título Personalizable",
+      "Listado de corrección de notas",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pLpLyndc6s7rRibs",
+    "name": "El Comercio - Elecciones 2021",
+    "uri": "/elecciones-2021/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "header/inverted",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/ordered-stories",
+      "Destaque Premium",
+      "Separador - noticias",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pd5tlvbAhqTXoQ5us",
+    "name": "El Comercio - Saltar Intro - Entrevistas",
+    "uri": "/saltar-intro/entrevistas/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Cabecera - Sección",
+      "Destaque Entrevista - Saltar Intro",
+      "chains/ordered-stories",
+      "Listado - Saltar Intro",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "pO1VVsmcaTGyR5us",
+    "name": "El Comercio - Saltar Intro - Noticias",
+    "uri": "/saltar-intro/noticias/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Cabecera - Sección",
+      "Destaque Full Imagen",
+      "Listado de Noticia",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "pdYQxOlSgGGdef6s",
+    "name": "El Comercio - Sección Deporte Total - Indigital",
+    "uri": "/deporte-total-indi/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/ordered-stories",
+      "Destaque Premium",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pdhcdqGqmoZ45QUKs",
+    "name": "El Comercio - Publirreportaje - Conecta con el futuro",
+    "uri": "/publirreportaje/conectaconelfuturo/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Imagen con enlace",
+      "Apertura extraordinaria por sección",
+      "Título Personalizable",
+      "Listado con scroll infinito",
+      "Últimas Noticias",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pt2qkF1iuY4rCr",
+    "name": "El Comercio - Seccion Somos",
+    "uri": "/somos/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "HTML Básico",
+      "Apertura extraordinaria por sección",
+      "chains/block-container",
+      "Destaque Premium",
+      "Destaque Avanzado",
+      "Último minuto",
+      "Imagen con enlace",
+      "Separador - noticias",
+      "Destaque Full Imagen",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p3nZkNmw4yN2TSGds",
+    "name": "El Comercio - Bicentenario Independencia Perú",
+    "uri": "/bicentenario-independencia-peru/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pdwAcc1TBUyoIr",
+    "name": "El comercio - Buenas Prácticas",
+    "uri": "/buenas-practicas/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera de Página",
+      "chains/grid-container",
+      "HTML Básico",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pkGOlo1DNf9ZBr",
+    "name": "El Comercio - Sección El Dominical",
+    "uri": "/eldominical/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0s0kr8jdR0cKr",
+    "name": "El Comercio - Últimas Noticias",
+    "uri": "/ultimas-noticias/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Título Personalizable",
+      "Listado con scroll infinito",
+      "Calendario Archivo",
+      "Últimas Noticias",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pt5VVvuNYvWd3u5rs",
+    "name": "El Comercio - Corresponsales escolares - Historias",
+    "uri": "/corresponsales-escolares/historias/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Listado de Noticia",
+      "HTML Básico",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pGrXdoD58Ct9v5rs",
+    "name": "El Comercio - Corresponsales escolares - Material educativo",
+    "uri": "/corresponsales-escolares/material-educativo/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Listado de Noticia",
+      "HTML Básico",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pipbU71DIoMJ4s",
+    "name": "El Comercio - Encartes - Tottus",
+    "uri": "/encartes/tottus/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Especial - Cabecera Básica",
+      "chains/grid-container",
+      "HTML Básico"
+    ]
+  },
+  {
+    "id": "pWqgar6E8fBry5rs",
+    "name": "El Comercio - Corresponsales escolares - Videos",
+    "uri": "/corresponsales-escolares/videos/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación",
+      "Cabecera - Sección",
+      "chains/ordered-stories",
+      "Destaque Full Imagen",
+      "Destaque Avanzado",
+      "Listado de Noticia",
+      "HTML Básico",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pRmBBbqPgtSMIImDs",
+    "name": "El Comercio - Provecho - Restaurantes",
+    "uri": "/provecho/restaurantes/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Header - Provecho",
+      "Título - Saltar Intro",
+      "Apertura extraordinaria por historia",
+      "chains/flexible-container",
+      "Banner Historia - Provecho",
+      "Listado - Saltar Intro",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "pz8EbgsizCZQFJmDs",
+    "name": "El Comercio - Provecho - Recetas",
+    "uri": "/provecho/recetas/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Header - Provecho",
+      "Título - Saltar Intro",
+      "chains/grid-container",
+      "Image con título - Provecho",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "pJBY5obkjan8ZmDs",
+    "name": "El Comercio - Provecho - Tendencias",
+    "uri": "/provecho/tendencias/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Header - Provecho",
+      "Título - Saltar Intro",
+      "Apertura extraordinaria por historia",
+      "chains/flexible-container",
+      "Listado - Saltar Intro",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "plPr5oO6xDDDDXmDs",
+    "name": "El Comercio - Provecho - Chefs",
+    "uri": "/provecho/chefs/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Header - Provecho",
+      "Título - Saltar Intro",
+      "Apertura extraordinaria por historia",
+      "chains/flexible-container",
+      "Listado - Saltar Intro",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "pJ8YqaJCVv7Eg2nDs",
+    "name": "El Comercio - Provecho - Recetas - Bebidas",
+    "uri": "/provecho/recetas/bebidas/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Header - Provecho",
+      "Título - Saltar Intro",
+      "Apertura extraordinaria por historia",
+      "Listado Críticas - Saltar Intro",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "p7O4sfft2ls8J3nDs",
+    "name": "El Comercio - Provecho - Recetas - Cocina criolla",
+    "uri": "/provecho/recetas/cocina-criolla/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Header - Provecho",
+      "Título - Saltar Intro",
+      "Apertura extraordinaria por historia",
+      "Listado Críticas - Saltar Intro",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "pFxSa05nkqXr44nDs",
+    "name": "El Comercio - Provecho - Recetas - Comida saludable",
+    "uri": "/provecho/recetas/comida-saludable/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Header - Provecho",
+      "Título - Saltar Intro",
+      "Apertura extraordinaria por historia",
+      "Listado Críticas - Saltar Intro",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "p4UtqiJqaXbr4nDs",
+    "name": "El Comercio - Provecho - Recetas - Días especiales",
+    "uri": "/provecho/recetas/dias-especiales/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Header - Provecho",
+      "Título - Saltar Intro",
+      "Apertura extraordinaria por historia",
+      "Listado Críticas - Saltar Intro",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "pHbysIFH9vgYM4nDs",
+    "name": "El Comercio - Provecho - Recetas - Gastronauta",
+    "uri": "/provecho/recetas/gastronauta/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Header - Provecho",
+      "Título - Saltar Intro",
+      "Apertura extraordinaria por historia",
+      "Listado Críticas - Saltar Intro",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "p9ucw3gK5lsF5nDs",
+    "name": "El Comercio - Provecho - Recetas - Postres",
+    "uri": "/provecho/recetas/postres/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Header - Provecho",
+      "Título - Saltar Intro",
+      "Apertura extraordinaria por historia",
+      "Listado Críticas - Saltar Intro",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "ptj4k1iq69JY5nDs",
+    "name": "El Comercio - Provecho - Recetas - Suscriptores",
+    "uri": "/provecho/recetas/suscriptores/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Header - Provecho",
+      "Título - Saltar Intro",
+      "Apertura extraordinaria por historia",
+      "Listado Críticas - Saltar Intro",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "pz7f14OKRCc0ZznDs",
+    "name": "El Comercio - Provecho - Archivo",
+    "uri": "/archivo/provecho/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Header - Provecho",
+      "Título - Saltar Intro",
+      "Listado - Saltar Intro",
+      "Pie de Página - G21"
+    ]
+  },
+  {
+    "id": "p52ikA1ElugY2s",
+    "name": "El Comercio - Mundo - Estados Unidos",
+    "uri": "/mundo/eeuu/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pjQXQ92NCziY2s",
+    "name": "El Comercio - Mundo - España",
+    "uri": "/mundo/espana/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pUZ0sv1B3fXYBr",
+    "name": "El Comercio - Sección Lima",
+    "uri": "/lima/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "HTML Básico",
+      "chains/ordered-stories",
+      "Destaque Premium",
+      "Destaque Avanzado",
+      "Título Personalizable",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "pICTNn1jY9jY2s",
+    "name": "El Comercio - Mundo - Venezuela",
+    "uri": "/mundo/venezuela/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "Cabecera - Título independiente",
+      "Listado de Noticia",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "p0u6O0hdJfmmCr",
+    "name": "El Comercio - Opinion",
+    "uri": "/opinion/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Publicidad",
+      "Barra de Navegación - Signwall externo",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Grilla y listado de Opinión",
+      "Pié de página - El Comercio"
+    ]
+  },
+  {
+    "id": "prjSQG4GCo6LxYmDs",
+    "name": "El Comercio - Provecho - Listas y Ránkings",
+    "uri": "/provecho/listas-y-rankings/",
+    "sites": "elcomercio",
+    "featuresList": [
+      "Barra de Navegación - Somos",
+      "Cabecera - Estándar",
+      "HTML Básico",
+      "Header - Provecho",
+      "Título - Saltar Intro",
+      "Apertura extraordinaria por historia",
+      "chains/flexible-container",
+      "Listado - Saltar Intro",
+      "Pie de Página - G21"
+    ]
+  }
+]

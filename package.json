@@ -8,7 +8,8 @@
     "gen:dev": "ts-node src/generate-data.ts sandbox",
     "gen:prod": "ts-node src/generate-data.ts production",
     "features-count": "ts-node src/reports/features-count/generate-report.ts production",
-    "features-usage": "ts-node src/reports/features-usage/generate-report.ts production"
+    "features-usage": "ts-node src/reports/features-usage/generate-report.ts production",
+    "ec": "ts-node src/reports/elcomercio/index.ts"
   },
   "author": "",
   "license": "ISC",

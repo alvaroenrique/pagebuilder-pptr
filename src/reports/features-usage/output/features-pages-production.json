@@ -1,26 +1,47 @@
 [
   {
-    "feature": "widgets/custom-title",
-    "pagesList": []
-  },
-  {
-    "feature": "widgets/breaking-news",
+    "feature": "separators/stories",
     "pagesList": [
-      "El Bocón - Homepage"
+      "sinsignwall",
+      "noscriptsec",
+      "testnoscripts",
+      "El Comercio - Sub Sección Juntos contra Anemia Recetas",
+      "portada3",
+      "El Comercio - Sección Ruedas Tuercas",
+      "live-test",
+      "Trome - En Vivo",
+      "El Comercio - Sección Juntos Contra Anemia",
+      "noscriptstr",
+      "Trome - Más mujer",
+      "El Comercio - Sección casa y más",
+      "El Comercio - Desde la redacción",
+      "El Comercio - El Comercio TV",
+      "El Comercio - Sección 180 años 2019",
+      "Mag El Comercio - Homepage",
+      "El Comercio - Temporal",
+      "El Comercio - Page Builder Nuevo",
+      "Deport - Play",
+      "El Comercio - Corresponsales escolares",
+      "Depor - Portada México",
+      "Depor - home2",
+      "Diario correo - en vivo",
+      "El Comercio - Sección Wuf",
+      "Correo - homepage",
+      "Depor - En vivo",
+      "El Comercio - PortadaTest",
+      "Depor - Homepage",
+      "El Comercio - Homepage",
+      "Trome - Homepage",
+      "Trome - Eliminatorias Qatar 2022",
+      "El Comercio - Sección Viu",
+      "El Comercio - Sección Vamos",
+      "El Comercio - Elecciones 2021",
+      "El Comercio - en vivo",
+      "El Comercio - Seccion Somos",
+      "Trome - Eliminatorias Qatar 2022 - Selección peruana",
+      "Trome - Eliminatorias Qatar 2022 - Partidos",
+      "Trome - Eliminatorias Qatar 2022 - Selecciones",
+      "Trome - Eliminatorias Qatar 2022 - Videos"
     ]
-  },
-  {
-    "feature": "widgets/custom-image",
-    "pagesList": []
-  },
-  {
-    "feature": "widgets/basic-html",
-    "pagesList": [
-      "El Comercio - Homepage"
-    ]
-  },
-  {
-    "feature": "ads/principal",
-    "pagesList": []
   }
 ]

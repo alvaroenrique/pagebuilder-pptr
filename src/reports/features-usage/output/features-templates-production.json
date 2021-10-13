@@ -1,22 +1,6 @@
 [
   {
-    "feature": "widgets/custom-title",
-    "pagesList": []
-  },
-  {
-    "feature": "widgets/breaking-news",
-    "pagesList": []
-  },
-  {
-    "feature": "widgets/custom-image",
-    "pagesList": []
-  },
-  {
-    "feature": "widgets/basic-html",
-    "pagesList": []
-  },
-  {
-    "feature": "ads/principal",
+    "feature": "separators/stories",
     "pagesList": []
   }
 ]

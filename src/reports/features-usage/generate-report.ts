@@ -1,10 +1,4 @@
-const featuresList = [
-  "widgets/custom-title",
-  "widgets/breaking-news",
-  "widgets/custom-image",
-  "widgets/basic-html",
-  "ads/principal",
-];
+const featuresList = ["separators/stories"];
 
 ///////////////////////////////////////////////////////////////////////////////////
 
